@@ -1,6 +1,0 @@
-collect 1
-collect 2
-collect 3
-collect 4
-collect 5
-5

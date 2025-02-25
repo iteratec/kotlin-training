@@ -1,7 +1,0 @@
-content:
-  - Recap
-  - Async vs Launch
-  - Cancelation of Coroutines
-  - Exception-Handling
-  - Composing suspend functions
-  - CoroutineContext and Dispatchers

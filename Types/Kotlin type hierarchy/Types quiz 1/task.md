@@ -1,1 +1,0 @@
-Select statements that are invalid and wouldn't compile.

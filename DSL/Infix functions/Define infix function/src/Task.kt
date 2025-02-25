@@ -1,1 +1,0 @@
-infix fun Int.pow(power: Int): Double = Math.pow(this.toDouble(), power.toDouble())
