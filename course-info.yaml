@@ -5,7 +5,11 @@ programming_language: Kotlin
 solutions_hidden: true
 content:
   - basic
+environment_settings:
+  jvm_language_level: JDK_1_8
 additional_files:
   - name: build.gradle
   - name: settings.gradle
+  - name: README.md
+  - name: CONTRIBUTING.md
 yaml_version: 2
