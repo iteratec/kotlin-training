@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/de/iteratec/training/kotlin/basic/functions/FunctionsTask.kt
+    visible: true
+  - name: test/de/iteratec/training/kotlin/basic/functions/FunctionsTaskTest.kt
+    visible: false
+    propagatable: false

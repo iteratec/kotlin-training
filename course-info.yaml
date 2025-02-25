@@ -1,0 +1,11 @@
+type: marketplace
+title: kotlin-training
+language: English
+programming_language: Kotlin
+solutions_hidden: true
+content:
+  - basic
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+yaml_version: 2
