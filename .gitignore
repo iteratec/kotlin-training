@@ -8,3 +8,13 @@
 /.idea/
 /.coursecreator/
 /**/out/
+.gradle
+
+# Intellij
+*.iml
+.idea
+
+.DS_Store
+Thumbs.db
+
+form_filled.pdf
