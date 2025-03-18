@@ -3,6 +3,7 @@ package de.iteratec.kotlin.basic
 import org.junit.Test
 
 class T01FunctionsTasks {
+
     /**
      * ## Function syntax
      * Define a function addAll that takes 4 integers (type Int in Kotlin) as input and returns the sum.
@@ -32,8 +33,8 @@ class T01FunctionsTasks {
     @Test
     fun defaultValues() {
         /*
-        assertEquals(addAll(0, 1), 1)
-        assertEquals(addAll(0, 1, 2), 3)
+        assertEquals(1, addAll(0, 1))
+        assertEquals(3, addAll(0, 1, 2))
         */
     }
 }
